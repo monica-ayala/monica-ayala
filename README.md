@@ -53,7 +53,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/monica-ayala/monica-ayala/dist/snake.svg](https://github.com/monica-ayala/monica-ayala/raw/main/dist/snake.svg)" alt="Snake animation" />
+<img src="https://github.com/monica-ayala/monica-ayala/raw/main/dist/snake.svg" alt="Snake animation" />
 
 ###
 
