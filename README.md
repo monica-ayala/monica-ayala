@@ -1,6 +1,5 @@
 <h2 align="left">Hi I'm Monica Ayala, a full-stack web developer</h2>
-<p>I am a student of Computer Engineering at Tec de Monterrey. I am seeking to gain more work experience for my academic and professional development. I am a dedicated, honest, responsible person with a strong desire to learn. I have worked on software development projects both as a Fullstack Developer and as a Product Owner and Software Architect.</p>
-###
+<p>I love learning new technologies for web development, I am currently working on learning Three.js and GraphQL. I am also passionate about managing software projects, agile methodologies and improving operational processes through automatization.</p>
 
 <img align="right" height="150" src="https://media.tenor.com/2aSuT7p_a_UAAAAi/peachcat-cat.gif"  />
 
