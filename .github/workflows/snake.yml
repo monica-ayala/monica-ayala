@@ -3,10 +3,7 @@ name: Generate snake animation
 on:
   schedule:
     - cron: "0 */12 * * *"
-  push:
-    branches:
-      - main
-
+    
 jobs:
   generate:
     runs-on: ubuntu-latest
