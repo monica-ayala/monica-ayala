@@ -5,7 +5,7 @@ on:
     - cron: "0 */12 * * *"
   push:
     branches:
-      - main
+      - master
 
 jobs:
   generate:
@@ -28,9 +28,6 @@ jobs:
           git config --global user.email 'actions@users.noreply.github.com'
           git add .
           git commit -m "Generated snake.svg"
-          git push
-
-          target_branch: output
-          build_dir: dist
+          git push https://github.com/${{ github.repository }} HEAD:master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
