@@ -1,5 +1,5 @@
 <h2 align="left">Hi I'm Monica Ayala, a full-stack web developer</h2>
-<p>I love learning new technologies for web development, I am currently working on learning Three.js and GraphQL. I am also passionate about managing software projects, agile methodologies and improving operational processes through automatization.</p>
+<p>I love learning new technologies for web development and coding in general, I am currently working on learning Three.js and GraphQL. I am also passionate about managing software projects, agile methodologies and improving operational processes through automatization.</p>
 
 <img align="right" height="150" src="https://media.tenor.com/2aSuT7p_a_UAAAAi/peachcat-cat.gif"  />
 
